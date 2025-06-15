@@ -20,3 +20,4 @@ A lightweight auto-locking script for emergency vehicles in FiveM.
 
 1. Download or clone the repository:
 
+join the discord https://discord.gg/sNANv4dJad
