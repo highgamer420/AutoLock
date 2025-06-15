@@ -20,4 +20,16 @@ A lightweight auto-locking script for emergency vehicles in FiveM.
 
 1. Download or clone the repository:
 
+2. Place the folder in your resources directory.
+
+Add this line to your server.cfg:
+
+ensure AutoLock
+
+📁 File Structure
+AutoLock/
+├── client.lua
+├── fxmanifest.lua
+
+
 join the discord https://discord.gg/sNANv4dJad
